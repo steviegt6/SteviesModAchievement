@@ -1,0 +1,3 @@
+displayName = Stevie's Mod Achievement Lib
+author = convicted tomatophile
+version = 0.1
